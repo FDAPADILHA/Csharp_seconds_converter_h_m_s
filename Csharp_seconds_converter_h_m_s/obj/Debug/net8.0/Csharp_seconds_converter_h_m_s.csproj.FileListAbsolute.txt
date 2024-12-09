@@ -1,0 +1,14 @@
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\bin\Debug\net8.0\Csharp_seconds_converter_h_m_s.exe
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\bin\Debug\net8.0\Csharp_seconds_converter_h_m_s.deps.json
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\bin\Debug\net8.0\Csharp_seconds_converter_h_m_s.runtimeconfig.json
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\bin\Debug\net8.0\Csharp_seconds_converter_h_m_s.dll
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\bin\Debug\net8.0\Csharp_seconds_converter_h_m_s.pdb
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\Csharp_seconds_converter_h_m_s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\Csharp_seconds_converter_h_m_s.AssemblyInfoInputs.cache
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\Csharp_seconds_converter_h_m_s.AssemblyInfo.cs
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\Csharp_seconds_converter_h_m_s.csproj.CoreCompileInputs.cache
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\Csharp_seconds_converter_h_m_s.dll
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\refint\Csharp_seconds_converter_h_m_s.dll
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\Csharp_seconds_converter_h_m_s.pdb
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\Csharp_seconds_converter_h_m_s.genruntimeconfig.cache
+C:\Users\filipe.padilha\source\repos\Csharp_seconds_converter_h_m_s\Csharp_seconds_converter_h_m_s\obj\Debug\net8.0\ref\Csharp_seconds_converter_h_m_s.dll
